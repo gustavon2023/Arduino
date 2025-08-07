@@ -1,0 +1,5 @@
+El primer ejemplo consiste en controlar dos LEDs, los cuales se pueden encender y apagar. A través del Bluetooth llegan datos de tipo char por parte del móvil. El Arduino decide qué acción ejecutar de acuerdo al dato que recibe, por ejemplo, si recibe la letra 'A' entonces enciende un LED y si recibe la letra 'B' lo apaga.
+
+https://youtu.be/r6RBY0chy0A
+https://arduparatodos.blogspot.com/2017/06/modulo-bluetooth-hc-06-con-arduino-y.html
+
