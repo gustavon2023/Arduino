@@ -1,0 +1,9 @@
+Materiales
+Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
+
+1 Placa de Arduino UNO
+1 Protoboard
+4 latiguillos
+2 resistencias
+1 sensor LDR
+1 diodo led

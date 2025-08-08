@@ -1,0 +1,7 @@
+Materiales
+Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
+
+1 Placa de Arduino UNO
+6 latiguillos
+1 potenciómetro
+1 Servomotor

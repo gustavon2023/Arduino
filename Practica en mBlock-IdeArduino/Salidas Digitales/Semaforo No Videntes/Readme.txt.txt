@@ -1,0 +1,1 @@
+En esta práctica vamos a simular el semáforo para peatones invidentes a través de 1 zumbador que avisa al peatón.
